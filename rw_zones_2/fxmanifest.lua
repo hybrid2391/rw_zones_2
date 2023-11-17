@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-name 'Royale_zones'
+name 'Royale_zones_2'
 
 author 'RoyaleWind'
 description 'Fixed and reworked By hybrid2391'
