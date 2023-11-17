@@ -4,7 +4,7 @@ game 'gta5'
 name 'Royale_zones'
 
 author 'RoyaleWind'
-description 'By RoyaleWind'
+description 'Fixed and reworked By hybrid2391'
 version '1.0.0'
 
 ui_page 'html/index.html'
